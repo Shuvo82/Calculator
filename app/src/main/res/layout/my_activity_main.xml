@@ -10,7 +10,6 @@
         android:id="@+id/display"
         android:layout_width="412dp"
         android:layout_height="182dp"
-        android:text="0"
         android:textSize="62sp"
         android:textColor="#ff000000"
         android:textStyle="bold"

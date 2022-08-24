@@ -211,7 +211,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 float temp=Float.parseFloat(display.getText().toString());
                 result=number1/temp;
                 display.setText(String.valueOf(result));
-
             }
             else if(operator=="exp"){
 

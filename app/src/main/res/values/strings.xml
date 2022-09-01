@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Calculator</string>
     <string name="ac">AC</string>
+
+
+
+    <string name="exit">Save and Exit</string>
+    <string name="protect">Protect</string>
+    <string name="print">Print</string>
+    <string name="share">Share</string>
 </resources>
